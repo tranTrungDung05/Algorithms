@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/tranTrungDung05/Algorithms/tree/master/0657-robot-return-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/tranTrungDung05/Algorithms/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
