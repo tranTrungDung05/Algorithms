@@ -9,7 +9,7 @@ bool judgeCircle(char* moves) {
             y--;
         }else if(moves[i] == 'L'){
             x--;
-        }else if(moves[i] == 'R'){
+        }else{
             x++;
         }
     }
