@@ -14,12 +14,22 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/tranTrungDung05/Algorithms/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/tranTrungDung05/Algorithms/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/tranTrungDung05/Algorithms/tree/master/0657-robot-return-to-origin) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/tranTrungDung05/Algorithms/tree/master/0657-robot-return-to-origin) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/tranTrungDung05/Algorithms/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/tranTrungDung05/Algorithms/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
