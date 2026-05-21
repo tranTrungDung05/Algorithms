@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tranTrungDung05/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/tranTrungDung05/Algorithms/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/tranTrungDung05/Algorithms/tree/master/0657-robot-return-to-origin) |
 ## Simulation
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tranTrungDung05/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/tranTrungDung05/Algorithms/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -36,5 +38,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tranTrungDung05/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/tranTrungDung05/Algorithms/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
