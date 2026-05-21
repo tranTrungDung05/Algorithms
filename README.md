@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/0088-merge-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/tranTrungDung05/Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tranTrungDung05/Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/tranTrungDung05/Algorithms/tree/master/0389-find-the-difference) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/tranTrungDung05/Algorithms/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
