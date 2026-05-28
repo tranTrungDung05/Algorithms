@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0088-merge-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tranTrungDung05/Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/tranTrungDung05/Algorithms/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/tranTrungDung05/Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/1019-squares-of-a-sorted-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0217-contains-duplicate](https://github.com/tranTrungDung05/Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tranTrungDung05/Algorithms/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/tranTrungDung05/Algorithms/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/1019-squares-of-a-sorted-array) |
 ## String
