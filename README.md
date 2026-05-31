@@ -93,4 +93,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/tranTrungDung05/Algorithms/tree/master/0203-remove-linked-list-elements) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tranTrungDung05/Algorithms/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tranTrungDung05/Algorithms/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tranTrungDung05/Algorithms/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
