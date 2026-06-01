@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0389-find-the-difference](https://github.com/tranTrungDung05/Algorithms/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/tranTrungDung05/Algorithms/tree/master/0657-robot-return-to-origin) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tranTrungDung05/Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1666-make-the-string-great](https://github.com/tranTrungDung05/Algorithms/tree/master/1666-make-the-string-great) |
 ## Simulation
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tranTrungDung05/Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tranTrungDung05/Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [1666-make-the-string-great](https://github.com/tranTrungDung05/Algorithms/tree/master/1666-make-the-string-great) |
 ## Design
 |  |
 | ------- |
