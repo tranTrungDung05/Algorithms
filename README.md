@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tranTrungDung05/Algorithms/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/tranTrungDung05/Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tranTrungDung05/Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0268-missing-number) |
@@ -17,12 +18,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tranTrungDung05/Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/tranTrungDung05/Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tranTrungDung05/Algorithms/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/tranTrungDung05/Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tranTrungDung05/Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0268-missing-number) |
