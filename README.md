@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0049-group-anagrams](https://github.com/tranTrungDung05/Algorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/tranTrungDung05/Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tranTrungDung05/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/tranTrungDung05/Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0414-third-maximum-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tranTrungDung05/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tranTrungDung05/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/tranTrungDung05/Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tranTrungDung05/Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [1666-make-the-string-great](https://github.com/tranTrungDung05/Algorithms/tree/master/1666-make-the-string-great) |
