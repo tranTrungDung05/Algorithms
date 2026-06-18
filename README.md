@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tranTrungDung05/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/tranTrungDung05/Algorithms/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tranTrungDung05/Algorithms/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tranTrungDung05/Algorithms/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/tranTrungDung05/Algorithms/tree/master/0383-ransom-note) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tranTrungDung05/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/tranTrungDung05/Algorithms/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/tranTrungDung05/Algorithms/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/tranTrungDung05/Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0268-missing-number) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tranTrungDung05/Algorithms/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tranTrungDung05/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0268-missing-number) |
 ## Binary Search
