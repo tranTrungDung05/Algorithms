@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0383-ransom-note](https://github.com/tranTrungDung05/Algorithms/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tranTrungDung05/Algorithms/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/tranTrungDung05/Algorithms/tree/master/0657-robot-return-to-origin) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/tranTrungDung05/Algorithms/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tranTrungDung05/Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/tranTrungDung05/Algorithms/tree/master/1666-make-the-string-great) |
 ## Simulation
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0232-implement-queue-using-stacks](https://github.com/tranTrungDung05/Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/tranTrungDung05/Algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tranTrungDung05/Algorithms/tree/master/0739-daily-temperatures) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/tranTrungDung05/Algorithms/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1666-make-the-string-great](https://github.com/tranTrungDung05/Algorithms/tree/master/1666-make-the-string-great) |
 ## Design
 |  |
