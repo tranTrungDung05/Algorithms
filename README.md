@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0735-asteroid-collision](https://github.com/tranTrungDung05/Algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tranTrungDung05/Algorithms/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/tranTrungDung05/Algorithms/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/tranTrungDung05/Algorithms/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tranTrungDung05/Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0069-sqrtx](https://github.com/tranTrungDung05/Algorithms/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/tranTrungDung05/Algorithms/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/tranTrungDung05/Algorithms/tree/master/0907-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
