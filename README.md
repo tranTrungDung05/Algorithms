@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0075-sort-colors](https://github.com/tranTrungDung05/Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tranTrungDung05/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/tranTrungDung05/Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tranTrungDung05/Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0414-third-maximum-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0049-group-anagrams](https://github.com/tranTrungDung05/Algorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/tranTrungDung05/Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tranTrungDung05/Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tranTrungDung05/Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tranTrungDung05/Algorithms/tree/master/0389-find-the-difference) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/tranTrungDung05/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tranTrungDung05/Algorithms/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/tranTrungDung05/Algorithms/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/tranTrungDung05/Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tranTrungDung05/Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/tranTrungDung05/Algorithms/tree/master/0383-ransom-note) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tranTrungDung05/Algorithms/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/tranTrungDung05/Algorithms/tree/master/0383-ransom-note) |
 ## Math
 |  |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tranTrungDung05/Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/tranTrungDung05/Algorithms/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
