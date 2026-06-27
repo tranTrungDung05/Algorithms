@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0860-design-circular-queue](https://github.com/tranTrungDung05/Algorithms/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/tranTrungDung05/Algorithms/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/tranTrungDung05/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tranTrungDung05/Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0086-partition-list](https://github.com/tranTrungDung05/Algorithms/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/tranTrungDung05/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0414-third-maximum-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/tranTrungDung05/Algorithms/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/tranTrungDung05/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0268-missing-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/tranTrungDung05/Algorithms/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tranTrungDung05/Algorithms/tree/master/0389-find-the-difference) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/tranTrungDung05/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0367-valid-perfect-square](https://github.com/tranTrungDung05/Algorithms/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/tranTrungDung05/Algorithms/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/tranTrungDung05/Algorithms/tree/master/0907-koko-eating-bananas) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/tranTrungDung05/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
