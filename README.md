@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0735-asteroid-collision](https://github.com/tranTrungDung05/Algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tranTrungDung05/Algorithms/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/tranTrungDung05/Algorithms/tree/master/0792-binary-search) |
+| [0860-design-circular-queue](https://github.com/tranTrungDung05/Algorithms/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/tranTrungDung05/Algorithms/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tranTrungDung05/Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0203-remove-linked-list-elements](https://github.com/tranTrungDung05/Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tranTrungDung05/Algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tranTrungDung05/Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
+| [0860-design-circular-queue](https://github.com/tranTrungDung05/Algorithms/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -136,11 +138,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tranTrungDung05/Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tranTrungDung05/Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/tranTrungDung05/Algorithms/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tranTrungDung05/Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tranTrungDung05/Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/tranTrungDung05/Algorithms/tree/master/0860-design-circular-queue) |
 ## Divide and Conquer
 |  |
 | ------- |
