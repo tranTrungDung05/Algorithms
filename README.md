@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0086-partition-list](https://github.com/tranTrungDung05/Algorithms/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/1019-squares-of-a-sorted-array) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/tranTrungDung05/Algorithms/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tranTrungDung05/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0150-evaluate-reverse-polish-notation](https://github.com/tranTrungDung05/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/tranTrungDung05/Algorithms/tree/master/0367-valid-perfect-square) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/tranTrungDung05/Algorithms/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0367-valid-perfect-square](https://github.com/tranTrungDung05/Algorithms/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/tranTrungDung05/Algorithms/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/tranTrungDung05/Algorithms/tree/master/0907-koko-eating-bananas) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/tranTrungDung05/Algorithms/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tranTrungDung05/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/tranTrungDung05/Algorithms/tree/master/0739-daily-temperatures) |
+## Interactive
+|  |
+| ------- |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/tranTrungDung05/Algorithms/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
