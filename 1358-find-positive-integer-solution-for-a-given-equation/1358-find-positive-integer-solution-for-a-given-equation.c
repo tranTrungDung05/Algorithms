@@ -19,7 +19,7 @@ int** findSolution(int (*customFunction)(int, int), int z, int* returnSize, int*
     *returnColumnSizes = (int*)malloc(1000 * sizeof(int));
 
 	for(int x = 1; x <= 1000; x++){
-        for(int y = 1; y <= 1000; y++){
+        for(int y = 1000; y >= 1; y--){
             if(customFunction(x, y) == z){
                 int *ans = (int*)malloc(2 * sizeof(int));
                 ans[0] = x;
