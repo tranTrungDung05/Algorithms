@@ -172,6 +172,7 @@ Weeks are for process of ak bootcamp's roadmap!
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tranTrungDung05/Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/tranTrungDung05/Algorithms/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -192,10 +193,12 @@ Weeks are for process of ak bootcamp's roadmap!
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/tranTrungDung05/Algorithms/tree/master/0463-island-perimeter) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/tranTrungDung05/Algorithms/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/tranTrungDung05/Algorithms/tree/master/0463-island-perimeter) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/tranTrungDung05/Algorithms/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Matrix
 |  |
 | ------- |
