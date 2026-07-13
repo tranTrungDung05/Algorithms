@@ -17,14 +17,7 @@ int numIslands(char** grid, int gridSize, int* gridColSize) {
         for(int j = 0; j < gridColSize[i]; j++){
             if(grid[i][j] == '1'){
                 islands++;
-                if(j > 0)
-                    dfs(grid, gridSize, gridColSize, i, j - 1);
-                if(j < gridColSize[i])
-                    dfs(grid, gridSize, gridColSize, i, j + 1);
-                if(i > 0)
-                    dfs(grid, gridSize, gridColSize, i - 1, j);
-                if(i < gridSize)
-                    dfs(grid, gridSize, gridColSize, i + 1, j);
+                dfs(grid, gridSize, gridColSize, i, j);
             }
         }
     }   
