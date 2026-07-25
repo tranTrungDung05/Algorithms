@@ -1,0 +1,11 @@
+int removeDuplicates(int* nums, int numsSize) {
+    int slow = 0;
+
+    for(int fast = 1; fast < numsSize; fast++){
+        while(nums[slow] != nums[fast]){
+            nums[++slow] = nums[fast];
+        }
+    }
+
+    return slow + 1;
+}
