@@ -11,7 +11,7 @@ int* plusOne(int* digits, int digitsSize, int* returnSize) {
 
         if(digits[i] < 10){
             carry = 0;
-        }else if(digits[i] > 10){
+        }else if(digits[i] == 10){
             digits[i] = 0;
             carry = 1;
             i--;
