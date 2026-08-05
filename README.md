@@ -102,6 +102,7 @@ Weeks are for process of ak bootcamp's roadmap!
 | ------- |
 | [0013-roman-to-integer](https://github.com/tranTrungDung05/Algorithms/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/tranTrungDung05/Algorithms/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/tranTrungDung05/Algorithms/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tranTrungDung05/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/tranTrungDung05/Algorithms/tree/master/0367-valid-perfect-square) |
@@ -208,9 +209,14 @@ Weeks are for process of ak bootcamp's roadmap!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tranTrungDung05/Algorithms/tree/master/0070-climbing-stairs) |
 | [1489-pizza-with-3n-slices](https://github.com/tranTrungDung05/Algorithms/tree/master/1489-pizza-with-3n-slices) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1489-pizza-with-3n-slices](https://github.com/tranTrungDung05/Algorithms/tree/master/1489-pizza-with-3n-slices) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tranTrungDung05/Algorithms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
