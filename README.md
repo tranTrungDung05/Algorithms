@@ -25,6 +25,7 @@ Weeks are for process of ak bootcamp's roadmap!
 | [0860-design-circular-queue](https://github.com/tranTrungDung05/Algorithms/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/tranTrungDung05/Algorithms/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/tranTrungDung05/Algorithms/tree/master/1036-rotting-oranges) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tranTrungDung05/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1489-pizza-with-3n-slices](https://github.com/tranTrungDung05/Algorithms/tree/master/1489-pizza-with-3n-slices) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tranTrungDung05/Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -205,11 +206,13 @@ Weeks are for process of ak bootcamp's roadmap!
 | [0463-island-perimeter](https://github.com/tranTrungDung05/Algorithms/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/tranTrungDung05/Algorithms/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/tranTrungDung05/Algorithms/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1036-rotting-oranges](https://github.com/tranTrungDung05/Algorithms/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/tranTrungDung05/Algorithms/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/tranTrungDung05/Algorithms/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/tranTrungDung05/Algorithms/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
