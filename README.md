@@ -18,6 +18,7 @@ Weeks are for process of ak bootcamp's roadmap!
 | [0463-island-perimeter](https://github.com/tranTrungDung05/Algorithms/tree/master/0463-island-perimeter) |
 | [0561-array-partition](https://github.com/tranTrungDung05/Algorithms/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/tranTrungDung05/Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [0690-employee-importance](https://github.com/tranTrungDung05/Algorithms/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/tranTrungDung05/Algorithms/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tranTrungDung05/Algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tranTrungDung05/Algorithms/tree/master/0739-daily-temperatures) |
@@ -82,6 +83,7 @@ Weeks are for process of ak bootcamp's roadmap!
 | [0268-missing-number](https://github.com/tranTrungDung05/Algorithms/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/tranTrungDung05/Algorithms/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tranTrungDung05/Algorithms/tree/master/0389-find-the-difference) |
+| [0690-employee-importance](https://github.com/tranTrungDung05/Algorithms/tree/master/0690-employee-importance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tranTrungDung05/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
@@ -177,6 +179,7 @@ Weeks are for process of ak bootcamp's roadmap!
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tranTrungDung05/Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0690-employee-importance](https://github.com/tranTrungDung05/Algorithms/tree/master/0690-employee-importance) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/tranTrungDung05/Algorithms/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Binary Search Tree
 |  |
@@ -198,12 +201,14 @@ Weeks are for process of ak bootcamp's roadmap!
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/tranTrungDung05/Algorithms/tree/master/0463-island-perimeter) |
+| [0690-employee-importance](https://github.com/tranTrungDung05/Algorithms/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/tranTrungDung05/Algorithms/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/tranTrungDung05/Algorithms/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/tranTrungDung05/Algorithms/tree/master/0463-island-perimeter) |
+| [0690-employee-importance](https://github.com/tranTrungDung05/Algorithms/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/tranTrungDung05/Algorithms/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/tranTrungDung05/Algorithms/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1036-rotting-oranges](https://github.com/tranTrungDung05/Algorithms/tree/master/1036-rotting-oranges) |
