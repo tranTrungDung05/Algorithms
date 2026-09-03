@@ -37,6 +37,7 @@ Weeks are for process of ak bootcamp's roadmap!
 | [0075-sort-colors](https://github.com/tranTrungDung05/Algorithms/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/tranTrungDung05/Algorithms/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/tranTrungDung05/Algorithms/tree/master/0125-valid-palindrome) |
 | [1019-squares-of-a-sorted-array](https://github.com/tranTrungDung05/Algorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/tranTrungDung05/Algorithms/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tranTrungDung05/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -61,6 +62,7 @@ Weeks are for process of ak bootcamp's roadmap!
 | [0013-roman-to-integer](https://github.com/tranTrungDung05/Algorithms/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tranTrungDung05/Algorithms/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tranTrungDung05/Algorithms/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/tranTrungDung05/Algorithms/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/tranTrungDung05/Algorithms/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tranTrungDung05/Algorithms/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/tranTrungDung05/Algorithms/tree/master/0657-robot-return-to-origin) |
